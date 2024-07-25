@@ -1,10 +1,3 @@
 
-## Getting Started
-
-In this guide, you will learn how to run a basic voice app for both Amazon Alexa and Google Assistant.
-
-```sh
-$ sudo npm install jovo-framework
-$ jovo run
-```
-[![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.jovo.tech)
+A simple voice app for both Amazon Alexa and Google Assistant.
+Made with [![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.jovo.tech)
